@@ -30,6 +30,8 @@ Prerequisites:
         - kubectl apply -f deployment.yml 
         - kubectl apply -f service.yml
 
-5- Access the petclinic app just like  pointing your browser at localhost:8080  by kubectl port-forward deployment/springpetclinic-k8s 8080:8080
+5- Access the petclinic app just like  pointing your browser at localhost:8080
+        
+        kubectl port-forward deployment/springpetclinic-k8s 8080:8080
         
         
