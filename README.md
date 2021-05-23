@@ -7,7 +7,7 @@ Prerequisites:
 1-Ubunto 
 
 
-2-Kubernetes
+2-Kubrnates
 
 
 3-Java
